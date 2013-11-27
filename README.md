@@ -1,0 +1,1 @@
+Simply trying to re-implement [Norvig's Solution to Sudoku](http://norvig.com/sudoku.html)
